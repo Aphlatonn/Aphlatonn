@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 I’m constantly learning and exploring new technologies, with a keen interest in Linux, PostgreSQL, and building large-scale applications.
 - 👀 I'm passionate about leveraging technology to create impactful solutions and contribute to the advancement of humanity.
 - 💞️ I’m open to collaborating on projects that push boundaries and challenge the status quo.
-- 📫 You can reach me via [email](aphlaton:marwane.souiri.0@gmail.com).
+- 📫 You can reach me via [email](marwane.souiri.0@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my username is Aphlaton not Aphlatonn (aphlaton is used so i added other n to use this username)
 
