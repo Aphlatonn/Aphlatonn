@@ -14,4 +14,4 @@ Welcome to my GitHub profile! Here's a little about me:
 JavaScript | Go | Rust | Zig | Lua | Linux | PostgreSQL | Neovim
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about tech and innovation! 😊
-[![Discord Presence](https://lanyard.cnrad.dev/api/144694124925288448)](https://discord.com/users/144694124925288448)
+[Discord](https://discord.com/users/144694124925288448)
