@@ -15,3 +15,5 @@ JavaScript | Go | Rust | Zig | Lua | Linux | PostgreSQL | Neovim
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about tech and innovation! 😊
 [Discord](https://discord.com/users/144694124925288448)
+if you want any help or you have any questions join this server: https://discord.gg/mu6ZNEXDvd
+if you ara interested in discord bots join this server: https://discord.gg/ecliptic
